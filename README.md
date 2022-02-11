@@ -1,5 +1,5 @@
 
-#Titanic Dataset 
+# Titanic Dataset 
 This repo the Second project in Data Science program with Misk 2022.
 
 # Introduction
